@@ -9,9 +9,12 @@
 
 ### Let's Connect and have a Chat!
 <p align="left">
-  <a href="https://www.facebook.com/julfikerrahaman.jim"><img alt="facebook" title="Youtube" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href=""><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href=""><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- facebook -->
+ <a href="https://www.facebook.com/julfikerrahaman.jim"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/julfiker-rahaman-jim-9277092a0/"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <!-- Telegram -->
+  <a href="https://www.facebook.com/julfikerrahaman.jim"><img alt="Telegram" title="Youtube" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <!-- 126px/27px photoshop use -->
