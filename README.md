@@ -4,7 +4,7 @@
 
 ### Web Designer & MERN Stack Developer | Founder of KS Devware And WorksLee | UI/UX Designer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
 
 
 ### Let's Connect and have a Chat!
