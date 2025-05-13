@@ -49,8 +49,11 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julfiker755&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Julfiker755&theme=nordfox" width="46.7%" alt="GitHub Streak"/>
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Julfiker755&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" alt="GitHub Stats" />
+
+  <!-- GitHub streak stats -->
+  <img src="https://streak-stats.demolab.com?user=Julfiker755&theme=nordfox&hide_border=true" width="46.7%" alt="GitHub Streak" />
 </div>
 
 ---
