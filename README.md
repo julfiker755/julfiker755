@@ -6,7 +6,7 @@
 
 <h2 style="font-size: 1.8em; color: #f3d559;">🚀 About Me</h2>
 
-<ul style="color: #ffffff; font-size: 1.1em; list-style-type: disc; padding-left: 20px;">
+<ul style="color: #ffffff; font-size: 1.1em; list-style-type:none; padding-left: 20px;">
   <li>💡 Actively mastering <strong>Redux</strong> to enhance my state management capabilities.</li>
   <li>⚙️ Committed to building <strong>scalable</strong>, <strong>high-performance</strong> web applications.</li>
   <li>📚 Passionate about continuous learning, especially in <strong>problem solving</strong> and <strong>UI optimization</strong>.</li>
