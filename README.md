@@ -4,7 +4,20 @@
 
 ### Web Designer & MERN Stack Developer | Next js Developer | Backend Developer
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+<h2 style="font-size: 1.8em; color: #f3d559;">🚀 About Me</h2>
+
+<ul style="color: #ffffff; font-size: 1.1em; list-style-type: disc; padding-left: 20px;">
+  <li>💡 Actively mastering <strong>Redux</strong> to enhance my state management capabilities.</li>
+  <li>⚙️ Committed to building <strong>scalable</strong>, <strong>high-performance</strong> web applications.</li>
+  <li>📚 Passionate about continuous learning, especially in <strong>problem solving</strong> and <strong>UI optimization</strong>.</li>
+  <li>🧠 Enjoy deep technical discussions on <strong>React.js, Next.js, Node.js, Redux</strong>, and <strong>MongoDB</strong>.</li>
+  <li>✉️ Email me at: <strong>julfiker755.bd@gmail.com</strong></li>
+  <li>📍 Location: <strong>Dinajpur, Bangladesh</strong></li>
+  <li>📞 Phone: <strong>01741703755</strong></li>
+  <li>🧩 Fun Fact: I love solving puzzles — it reflects my coding style of turning complexity into simplicity!</li>
+</ul>
+
+
 
 
 ### Let's Connect and have a Chat!
