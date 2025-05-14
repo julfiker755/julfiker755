@@ -56,9 +56,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julfiker755&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Julfiker755&theme=nordfox" width="46.7%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Julfiker755&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Julfiker755&theme=nordfox&hide_border=true" width="48%" alt="GitHub Streak"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julfiker755&layout=compact&theme=vue-dark&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Julfiker755&theme=darkhub&no-bg=true&margin-w=15&margin-h=15" width="48%" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contribution-graph.vercel.app/api/?username=Julfiker755&theme=github-dark&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
+
 
 ---
 
