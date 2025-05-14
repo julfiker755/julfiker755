@@ -4,7 +4,7 @@
   <span style="font-size:17px">I'm Julfiker Rahaman Jim</span>
 </h2>
 
-<h3 align="center">
+<h3>
 🚀 Web Designer & MERN Stack Developer | Next.js Specialist | Backend Developer
 </h3>
 
