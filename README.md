@@ -50,7 +50,3 @@
 - 🔍 Always exploring new **design systems**, **component libraries**, and **dev tools**.
 - 🧪 Love experimenting with **cutting-edge technologies** in the React ecosystem.
 - ✍️ Enjoy sharing knowledge via **blogs**, **forums**, and **tech talks**.
-
-
-<h3 align="center">Thanks for visiting! 🚀</h3>
-<p align="center">Feel free to reach out — I'm always excited to collaborate, contribute, or just chat about code!</p>
