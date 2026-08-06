@@ -24,7 +24,6 @@
 - 📍 **Location:** Dinajpur, Bangladesh  
 - 📧 **Email:** [julfiker755.bd@gmail.com](mailto:julfiker755.bd@gmail.com)  
 - 📞 **Phone:** +8801741703755  
-- 📄 [**View My CV**](https://drive.google.com/file/d/1gjud2Qe0VsddQiAFDcNdM9eG3SnIKm75/view) – let’s build something great together!
 
 ---
 
